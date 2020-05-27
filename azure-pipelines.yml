@@ -19,6 +19,6 @@ steps:
     resourceGroupName: 'FunctionAppsPipelines'
     location: 'Central US'
     templateLocation: 'Linked artifact'
-    csmFile: 'CreateWebApp/mainDeployFunction.json'
+    csmFile: 'CreateFunction/mainDeployFunction.json'
     deploymentMode: 'Incremental'
-    deploymentName: 'didiocam'
+    deploymentName: 'didi27'
